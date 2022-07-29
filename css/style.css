@@ -1,0 +1,39 @@
+body{
+    font-family: Poppins,sans-serif;
+    transition: .2s all ease;
+}
+.theme{
+    color: #0093ff!important;
+}
+.theme-bg{
+    background-color: #deeffc;
+}
+.navbar-brand{
+    font-family: 'shrikhand', cursive;
+    font-size: 35px;
+}
+.nav-link{
+    font-size: 20px;
+}
+.nav-link:hover{
+    font-size: 20px;
+    color: #0093ff!important;
+}
+.banner{
+    background-color: #354895;
+}
+.banner h3{
+    line-height: 40px;
+}
+.banner h1 span{
+    font-size: 50px;
+    color: #89cdfd;
+}
+.contact h2{
+    color: #0093ff;
+    font-family: 'shrikhand', cursive;
+}
+.media .fa-brands{
+    font-size: 40px;
+    margin: 20px;
+}
