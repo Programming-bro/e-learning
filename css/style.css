@@ -1,39 +1,53 @@
-body{
-    font-family: Poppins,sans-serif;
+body {
+    font-family: Poppins, sans-serif;
     transition: .2s all ease;
 }
-.theme{
-    color: #0093ff!important;
+
+.theme {
+    color: #0093ff !important;
 }
-.theme-bg{
+
+.theme-bg {
     background-color: #deeffc;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-family: 'shrikhand', cursive;
     font-size: 35px;
 }
-.nav-link{
+
+.nav-link {
     font-size: 20px;
 }
-.nav-link:hover{
+
+.nav-link:hover {
     font-size: 20px;
-    color: #0093ff!important;
+    color: #0093ff !important;
 }
-.banner{
+
+.banner {
     background-color: #354895;
 }
-.banner h3{
+
+.banner h3 {
     line-height: 40px;
 }
-.banner h1 span{
+
+.banner h1 span {
     font-size: 50px;
     color: #89cdfd;
 }
-.contact h2{
+
+.contact h2 {
     color: #0093ff;
     font-family: 'shrikhand', cursive;
 }
-.media .fa-brands{
+
+.media .fa-brands {
     font-size: 40px;
     margin: 20px;
+}
+
+.fa-square-whatsapp {
+    color: #45c655;
 }
